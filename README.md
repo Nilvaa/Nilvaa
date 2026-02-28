@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Heyyy  I'm Avlin 🌻</h1>
 
-<!--
-**Nilvaa/Nilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student & Aspiring Software Developer  
+💻 Passionate about Android Development & AI/ML  
+🚀 Currently learning React and preparing for placements
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me☺️
+
+- Currently exploring **React** & preparing for placements  
+- Love building Android apps  
+- Curious about AI & Machine Learning  
+- Improving my DSA skills every day  
+- I enjoy mixing creativity with code
+
+I love building real-world projects and continuously improving my problem-solving skills.  
+Always curious. Always learning. 
+
+
+### Currently Working On✨
+
+- Strengthening Data Structures & Algorithms  
+- Building real-world projects
+     
+[![Avlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nilvaa)](https://github.com/Nilvaa/github-readme-stats)
+
