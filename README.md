@@ -22,5 +22,5 @@ Always curious. Always learning.
 - Strengthening Data Structures & Algorithms  
 - Building real-world projects
      
-[![Avlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nilvaa)](https://github.com/Nilvaa/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nilvaa&theme=radical)
 
