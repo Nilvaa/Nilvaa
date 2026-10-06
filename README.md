@@ -94,7 +94,9 @@ Veterinary appointment management system using **Java, JSP & MySQL**.
 
 Co-authored an **IEEE conference paper** using a hybrid **SVM-LSTM** architecture for static and dynamic hand gesture recognition.
 
-![Check](https://ieeexplore.ieee.org/document/11712775)
+📄 **[Read the Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11712775)**
+
+**Research Focus:** Computer Vision · Hand Gesture Recognition · MediaPipe · Machine Learning · SVM · LSTM
 
 ---
 
